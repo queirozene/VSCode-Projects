@@ -5,3 +5,5 @@
 # alterado no github
 
 print("\n******************* Calculadora em Python *******************")
+
+print("hello world!")
