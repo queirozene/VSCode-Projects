@@ -3,6 +3,5 @@
 # Desenvolva uma calculadora em Python com tudo que você aprendeu nos capítulos até aqui no curso.
 # A solução será apresentada no próximo capítulo!
 # alterado no github
-# alterado vscode
 
 print("\n******************* Calculadora em Python *******************")
